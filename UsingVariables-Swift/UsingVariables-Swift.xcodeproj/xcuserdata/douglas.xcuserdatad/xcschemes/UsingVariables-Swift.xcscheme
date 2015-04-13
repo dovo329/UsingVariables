@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Scheme
-   LastUpgradeVersion = "0600"
+   LastUpgradeVersion = "0630"
    version = "1.3">
    <BuildAction
       parallelizeBuildables = "YES"
@@ -14,7 +14,7 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "71E54CF1199D3CB7009FF939"
+               BlueprintIdentifier = "A5B96CC81ADC3A4800B6C03C"
                BuildableName = "UsingVariables-Swift.app"
                BlueprintName = "UsingVariables-Swift"
                ReferencedContainer = "container:UsingVariables-Swift.xcodeproj">
@@ -28,7 +28,7 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "71E54CFE199D3CB8009FF939"
+               BlueprintIdentifier = "A5B96CDD1ADC3A4800B6C03C"
                BuildableName = "UsingVariables-SwiftTests.xctest"
                BlueprintName = "UsingVariables-SwiftTests"
                ReferencedContainer = "container:UsingVariables-Swift.xcodeproj">
@@ -46,7 +46,7 @@
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "71E54CFE199D3CB8009FF939"
+               BlueprintIdentifier = "A5B96CDD1ADC3A4800B6C03C"
                BuildableName = "UsingVariables-SwiftTests.xctest"
                BlueprintName = "UsingVariables-SwiftTests"
                ReferencedContainer = "container:UsingVariables-Swift.xcodeproj">
@@ -56,7 +56,7 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "71E54CF1199D3CB7009FF939"
+            BlueprintIdentifier = "A5B96CC81ADC3A4800B6C03C"
             BuildableName = "UsingVariables-Swift.app"
             BlueprintName = "UsingVariables-Swift"
             ReferencedContainer = "container:UsingVariables-Swift.xcodeproj">
@@ -72,10 +72,11 @@
       ignoresPersistentStateOnLaunch = "NO"
       debugDocumentVersioning = "YES"
       allowLocationSimulation = "YES">
-      <BuildableProductRunnable>
+      <BuildableProductRunnable
+         runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "71E54CF1199D3CB7009FF939"
+            BlueprintIdentifier = "A5B96CC81ADC3A4800B6C03C"
             BuildableName = "UsingVariables-Swift.app"
             BlueprintName = "UsingVariables-Swift"
             ReferencedContainer = "container:UsingVariables-Swift.xcodeproj">
@@ -90,10 +91,11 @@
       useCustomWorkingDirectory = "NO"
       buildConfiguration = "Release"
       debugDocumentVersioning = "YES">
-      <BuildableProductRunnable>
+      <BuildableProductRunnable
+         runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "71E54CF1199D3CB7009FF939"
+            BlueprintIdentifier = "A5B96CC81ADC3A4800B6C03C"
             BuildableName = "UsingVariables-Swift.app"
             BlueprintName = "UsingVariables-Swift"
             ReferencedContainer = "container:UsingVariables-Swift.xcodeproj">
